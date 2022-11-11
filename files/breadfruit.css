@@ -70,7 +70,6 @@ div.img-dec {
  margin: 0 0 15px 25px;
  padding: 0;
  position: relative;
- cursor: pointer;
 }
   
 div.img-dec img {
@@ -80,7 +79,6 @@ div.img-dec img {
  margin: -5px 5px 5px -5px;
  padding: 0px;
  position: relative;
- cursor: pointer;
 }
 
 #page-nav-breadfruit {
